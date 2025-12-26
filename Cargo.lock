@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
-name = "comprehensive-rust"
+name = "channels"
+version = "0.1.0"
+
+[[package]]
+name = "threads"
 version = "0.1.0"
